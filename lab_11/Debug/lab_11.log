@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Anonymous\source\repos\lab_11\lab_11\main.cpp(17,58): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Anonymous\source\repos\lab_11\lab_11\main.cpp(17,37): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Anonymous\source\repos\lab_11\lab_11\main.cpp(24,33): warning C4305: инициализация: усечение из "double" в "float"
+  lab_11.vcxproj -> C:\Users\Anonymous\source\repos\lab_11\Debug\lab_11.exe
